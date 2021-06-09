@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JayantBabbar
 - 👀 I’m interested in Web developing,Designing and Learning new things
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript , React.js
 - 💞️ I’m looking to collaborate on any web project
 - 📫 How to reach me - jayantbabbar1@gmail.com
 <!---
